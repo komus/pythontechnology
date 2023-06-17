@@ -100,6 +100,12 @@ git remote add origin <url>
 
 to add changes/file `git add <filename> or git add .` . means add all pending changes/files
 
+`git status`
+
+```
+ git commit -m "<message>"
+ git push
+```
 
 U = untracked/ not added to git
 M = modified

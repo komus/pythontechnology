@@ -13,4 +13,4 @@ print(f"Area is {ar.circle(10)}") # f string
 print ("Area is %d" %(ar.circle(10))) # older format
 
 
-print (f"perimeter of a circle is {circle(10)}")
+print (f"perimeter of a circle is {circle(10)}") # perimeter of a circle
